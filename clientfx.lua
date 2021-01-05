@@ -56,6 +56,12 @@ DrawText3D = function(x,y,z, text, d)
   end
   
 
+  function round(num, numDecimalPlaces)
+    local mult = 10^(numDecimalPlaces or 0)
+    return math.floor(num * mult + 0.5) / mult
+end
+
+
   exports('vDist', function(...) vDist(...); end)
   
   exports('tprint', function(...) tprint(...); end)
