@@ -1,0 +1,140 @@
+{
+    "eyebrows": {
+        "defaultItem": -1,
+        "texture": 1,
+        "item": 2,
+        "defaultTexture": 1
+    },
+    "bracelet": {
+        "defaultItem": -1,
+        "texture": 0,
+        "item": -1,
+        "defaultTexture": 0
+    },
+    "mask": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 0,
+        "defaultTexture": 0
+    },
+    "hair": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 9,
+        "defaultTexture": 0
+    },
+    "lipstick": {
+        "defaultItem": -1,
+        "texture": 1,
+        "item": -1,
+        "defaultTexture": 1
+    },
+    "hat": {
+        "defaultItem": -1,
+        "texture": -1,
+        "item": -1,
+        "defaultTexture": 0
+    },
+    "ageing": {
+        "defaultItem": -1,
+        "texture": 0,
+        "item": -1,
+        "defaultTexture": 0
+    },
+    "decals": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 7,
+        "defaultTexture": 0
+    },
+    "makeup": {
+        "defaultItem": -1,
+        "texture": 1,
+        "item": -1,
+        "defaultTexture": 1
+    },
+    "blush": {
+        "defaultItem": -1,
+        "texture": 1,
+        "item": -1,
+        "defaultTexture": 1
+    },
+    "torso2": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 250,
+        "defaultTexture": 0
+    },
+    "ear": {
+        "defaultItem": -1,
+        "texture": 0,
+        "item": -1,
+        "defaultTexture": 0
+    },
+    "pants": {
+        "defaultItem": 0,
+        "texture": 2,
+        "item": 49,
+        "defaultTexture": 0
+    },
+    "beard": {
+        "defaultItem": -1,
+        "texture": 1,
+        "item": 2,
+        "defaultTexture": 1
+    },
+    "watch": {
+        "defaultItem": -1,
+        "texture": 0,
+        "item": -1,
+        "defaultTexture": 0
+    },
+    "accessory": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 4,
+        "defaultTexture": 0
+    },
+    "shoes": {
+        "defaultItem": 1,
+        "texture": 0,
+        "item": 98,
+        "defaultTexture": 0
+    },
+    "glass": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 0,
+        "defaultTexture": 0
+    },
+    "arms": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 19,
+        "defaultTexture": 0
+    },
+    "bag": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 0,
+        "defaultTexture": 0
+    },
+    "t-shirt": {
+        "defaultItem": 1,
+        "texture": 0,
+        "item": 130,
+        "defaultTexture": 0
+    },
+    "vest": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 0,
+        "defaultTexture": 0
+    },
+    "face": {
+        "defaultItem": 0,
+        "texture": 0,
+        "item": 0,
+        "defaultTexture": 0
+    }
+}
